@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+# <nbformat>3.0</nbformat>
+
+# <codecell>
+
 __author__ = 'Kuldeep'
 from LLNode import Node
 
@@ -234,3 +239,7 @@ if __name__ == "__main__":
     #search
     l1.search(12)
     l1.search(20)
+
+# <codecell>
+
+
